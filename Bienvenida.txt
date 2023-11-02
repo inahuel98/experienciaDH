@@ -1,0 +1,123 @@
+ADN del estudiante de DH:
+-Autonomia: ser lider de tu aprendizahe, trabajo en equipo, productores y creadores, capacidad analitica y reflexiva.
+
+Ley de Pareto:
+-El 80% de los resultado que conseguimos procede de actividades desarrolladas en solo el 20% de nuestro tiempo.
+
+-el horario es importante y lo debemos cumplir para tener buenos resultados al momento de estudiar.
+
+Pasos para una buena gestion de tiempo:
+-Paso 1: Diagnostico actual
+-Paso 2: Planificar mes, semana, dia
+-Paso 3: Listar tareas diarios (trello) y ordenarlas por prioridad
+-Paso 4: Armar un metodo de control(kanban)
+-Paso 5: Revision de tus dias y objetivos- ajustar si es necesario-
+
+El aprendizaje es una tarea que requiere tiempo, dedicacion y practica. Por lo cual, es ideal guardarte, todos los dias un momento para conectarte con tu aprendizaje.
+
+Conocer tus ritmos naturales: Es decir conocer en que momento del dia nos resulta mas productivo estudiar 
+Planificar en que momento del dia estudiar tomando en cuenta las desventajas y ventajas que se presenta segun el momento elegido.
+
+La planificacion a largo plazo no es pensar en decisiones futuras, sino en el futuro de las decisiones presentes.
+
+No improvisar , evitar tener que pensar en cada momento cual es el siguiente paso que tengo que hacer.
+
+Tecnica Getting Things Done
+-Recopilar, Procesar, Organizar, Evaluar, Hacer.
+-Se basa en planificar el trabajo y volcar esa lista de tareas en alguna herramienta, para lograr sacar de tu cabeza los pendientes.
+
+Objetivos SMART
+-Especificos: Que queremos conseguir?, los objetivos deben ser especificos concretos y directos. Es necesario definir bien: que, cuando, como y donde.
+-Medibles: Para saber si los estamos alcanzando, debemos medirlos.
+-Alcanzables: Si nos fijamos objetivos muy grandes, podemos desmotivarnos al no alcanzarlos. Fijemos metas que esten dentro de nuestras posibilidades.
+-Realistas: Hay que ser realistas en relacion a recursos y medios disponibles.
+-a Tiempo: Programarlos para cumplirlos en tiempo limite.
+
+De esta manera crearas una lista de pendientes y los priorizaras, como veras deja de ser una lista de tarea y pasa a ser una lista de resultados a obtener.
+
+Tecnica: comete la rata primero.
+Cuando haya una lista de tareas acumuladas, recomedamos esta tecnica que consiste en realizar primero la tarea mas importante. Que suele ser la mas dificil.
+
+Tecnica calendarizacion: Crear un calendario de estudio. Dividirlo por tareas mensuales, semanales y diarias.
+
+Tecnica Pomodoro: Su objetivo es lograr la realizacion de la mayor cantidad de tareas posibles en una breve cantidad de tiempo, aprovechando los momentos en que el cerebro se encuentro fresco y descansado.por lo tanto combina momentos de concentracion absoluta en el estudio con pausas dedicadas a distraer al cerebro, que incluyen momentos de ocio. Normalmente se programan 25 min de estudio con 5 minutos de descanso. Al 4to 25 min concretado el descanso siguiente sera de 15 minutos.
+
+Tecnica Trello + Kanban: Trello se puede usar tanto para el dia a dia como para proyectos a largo plazo, funciona como una lista de tareas y un anotador donde escribiremos las tareas pendientes. Nos permite tener una buena visibilidad del aprendizaje que tenemos por delante. COmbinando con Kanban, herramienta visual de formato tablero con tarjetas, sera mucho mas facil gestionar las tareas.
+
+Consejo: no somos multitasking, por lo tanto debemos evitar hacer varias cosas a la vez, ya que nuestra capacidad mental se saturará y nuestro rendimiento puede reducirse facilmente un 60%.
+-Cuando nos centramos en una sola cosa, nuestra productividad y sus resultados se disparan.
+
+
+Matriz de Eisenhower:que pasa si todo es urgente y creo no llegar a concretar las tareas?, en estos casos es importante trabajar con los conceptos de URGENCIA e IMPORTANCIA, lo que se necesita es tomarse el tiempo en clasificar, analizar y priorizar las tareas en funcion de su urgencia e importancia.
+-Si es importante pero no urgente, PLANIFICAR
+-No es importante no urgente, MINIZA o a la BASURA
+-Si es importante y urgente, HACERLO YA!
+-Si es urgente y no es importante, DELEGAR
+
+Si pensamos que estamos fatigados, nos cansaremos mas, por lo tanto hay que distraernos del cansancio.
+Cuando sintamos que el tiempo no alcanza, recordemos: el tiempo es nuestro, nosotros lo dividimos y podemos hacer que sea suficiente o no. Todos tenemos el mismo tiempo, no se pone en juego el tiempo sino nuestras elecciones.
+
+
+Uno de los efectos magicos de la organizacion es la confianza en tu capacidad de tomar decisiones.
+
+Recomendaciones para la organizacion de la informacion:
+-Implementacion de metadatos, describen el contenido de los archivos o la informacion de los datos.
+-Tener en claro lo importante y lo urgente, esto es clave para la organizacion y logro de nuestros objetivos.
+
+Tenica de las 5 S:
+-Seleccionar(SEIRI), Ordenar(SEITON), Limpiar(SEISO), Estandarizar(SEIKETSU), Reestandarizar(SHITSUKE)
+Es una tecnica de gestion japonesa aplicada por Toyota, los objetivos son : aumentar la productividad, reducir los costos, incrementar la gestion del tiempo, reducir el gasto de energia, mejorar la calidad, eliminar tiempos muertos, fomentar el trabajo en equipo, entre otros. Es una practica de calidad sencilla y efectiva que implica:
+-SEIRI: separar lo innecesario, implica clasificar.
+-SEITON: ordenar y organizar, ubicar los materiales necesario para utilizarlos sencillamente y rapido. Establecer normas y reglas sobre el ordenamiento.
+-SEISO: eliminar las fuente de suciedad y tomar medidas para que no vuelven a aparecer. Inpeccionar, detectar anomalias y borrarlas.
+-SEIKETSU: tiene como objetivo recordar que el orden debe realizarse todos los dias.
+-SHITSUKE: continuar mejorando manteniendo la disciplina y el compromiso. Ayuda a la mejora continua.
+
+Modulo3
+Establecer metas es el primero paso en volver lo invisible en visible.
+
+El miedo es la sensacion de angustia que se produce ante la percepcion de una amenaza, fisica o mental. Es importante aclarar, en esta primera definicion, que el miedo no es problema. Es una senial que indica que existe un problema y de esta manera nos da la posibilidad de resolverlo.
+-Ciclo del miedo:
+1.Situacion: situacion que resulta amenazante
+2.Pensamiento: la situacion percibida como amenazante genera un pensamiento negativo.
+3.Emocion: los pensamientos sobre la situacion generan una emocion.
+4.Sensacion corporal: las emociones generadas por los pensamientos de la situacion se traducen en sensacion corporales o sentimientos.
+5.Conducta: los sentimientos determinaran nuestra conducta, que en el caso del miedo puede generar inhibicion, postergacion o paralisis.
+Trabajar y aprender con otros es una de las capacidades clave para la vida personal y profesional
+
+Por que aprender de manera cooperativa?
+-Mayores esfuerzos por lograr un buen desempenio
+-Relaciones mas positivas entre los alumnos
+-Mayor salud mental
+
+-Un ambiente que motive: ten un espacio rodeado de aquello que te da felicidad.
+
+Modulo 4
+-estrategias de aprendizaje: Motivicaion es lo que te hace empezar, habito es lo que te hace triunfar.
+las estrategias de aprendizaje son el conjunto de procesos, rutinas, habitos, tecnicas, dinamicas, metodos, entre otrosque ponemos en marcha para asimilar el conocimiento.
+-Es necesario tener en cuenta que enfrentaremos situaciones academicas en las que no podremos emplear el sentido que mejor apoya nuestro aprendizaje, por ello, debemos animarnos y ser flexibles para experimentar otras formas de aprender. Ademas una persona puede tener mas de un etilo y ganar destreza en la utilizacion de otras formas de apredizaje distintas al canal preponderante. Conocer tu estilo o canal de aprendizaje es muy relevante para tu exito academico porque puede ayudarte a elegir las mejores estrategias o actividades de aprendizaje personales mas relacionadas con tu preferencia.
+
+-Uso de mapas mentales, ventajas:
+Ayuda a gestinar la informacion facilitando la organizacion del pensamiento en un esquema simple, permitiendo obtener una vision clara y global del contenido o la tematica trabajada.
+Potencian habilidades como la concentracion, la logica, la creatividad, la imaginacion, la asociacion de ideas y la memoria.
+Incentivan el pensamiento critico y creativo.
+
+
+-Instancias de evaluacion: pensemos las evaluaciones como una instancia para aprender y superar nuestros conocimientos. Son una motivacion para desafiarnos e identificar losconceptos en los cuales tenemos que mejorar.
+
+--Cuando digamos "yo no puedo" ten en cuenta estos puntos:
+-respirar hondo y pensar que tenemos un equipo para ayudarnos.
+-pensar en algun situacion que dijiste "yo no puedo" y pudiste.
+-tomar un tiempo de ocio y recargar energias para poder dar lo mejor de nosotros.
+-retomar el estudio pensando en todas las cosas beneficiosa que nos aportar estudiar para nuestro desarrollo.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+Introduccion
+
+--Pilares educativos
+.aprender a aprender
+.aprender las bases
+.aprender a pensar
+.aprender haciendo
+
+Elementos de la programacion 
+-descomposicion: consiste en tomar el problema y desatircularlo en problemas mas pequenios y manejables.
+-patrones: al tenerproblemas mas chicos buscamos patrones con problemas anteriores que nos permitan resolverlos de manera mas sencilla.
+-abstraccion: eliminar distorsiones del problema, dejar de lado informacion irrelevante y analizar en forma logica el problema.
+-algoritmos: presentar los pasos a seguir para la resolucion de nuestros problemas.
+
+NodeJS nos permite ejecutar codigo en JavaScript y no depender de la ejecucion del mismo en navegadores, al instalar nodeJS estamos instalando un entorno de ejecucion.
+
+-variable, espacio de memoria que nos guardaran algun dato.
+se puede definir con: var, let(recomendado)
+y si es una constante: const.
+Es importante saber que el nombre puede estar formado solo por letras, numeros y los simbolos $ y _, no puede empezar con numeros ni contener caracteres con acentos. 
+en JS se recomienda usar CamelCase
+
+Tipos de datos:podemos dividirlos en datos primitivos y datos complejos o compuestos
+
+datos raros:
+-not a number;
+-null;
+-undefined;
+
+objeto literal: se usan las llaves y se setean con clave:valor, (es similar a diccionarios en python)
+Lista/array: se usan corchetes, el orden empieza desde 0.
+
+Operadores: 
+-comparacion simple "==" (devuelven datos booleanos)
+-comparacion estricta "===" deben ser del mismo tipo de dato para que devuelva true.
+
+para saber el tipo de dato que contiene una variable podemos usar el "typeof"
+
+operador and "&&"
+operador or "||"
+operador not "!"
+
+Los condicionales nos permite controlar el flujo de nuestro programa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
