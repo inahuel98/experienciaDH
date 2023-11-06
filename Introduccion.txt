@@ -40,18 +40,30 @@ operador and "&&"
 operador or "||"
 operador not "!"
 
-Los condicionales nos permite controlar el flujo de nuestro programa
+Los condicionales nos permite controlar el flujo de nuestro programa.
+en switch recuerdo que si tengo mas de un caso donde puedo ejecutar el mismo codigo puedo agruparlo de la siguiente manera:
+case 1:
+case 2:
+case 3:
+	{lo que quiero que haga};
+	break;
 
 
+Funciones: Es un bloque de codigo que nos permite realizar una tarea en particular. para ejecutarse necesita ser invocada.
+Funciones regulares
+Funciones compactas (las arrow functions)
+Funciones callbacks
+-funciones expresadas: son aquellas que se asigna como valor  auna variable.
+-funciones declaradas: son aquellas que recibe un nombre formal y no se asigna como valor a una variable.
+
+Llamamos parametros a las variables que escribimos cundo definimos la funcion
+Llamamos argumentos a los valores que enviamos cuando invocamos la funcion
+
+algunos metodos usados con string:
+string.length(devuelve el largo contando los caracteres)
 
 
-
-
-
-
-
-
-
+Arrow functions: es una manera mas compacta de crear o expresas funciones. Es necesario que sean asignadas como valor a una variable si es necesario reutilizarla o tambien se usa directamente en una expresion
 
 
 
