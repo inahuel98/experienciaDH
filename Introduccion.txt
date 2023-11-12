@@ -63,9 +63,12 @@ algunos metodos usados con string:
 string.length(devuelve el largo contando los caracteres)
 
 
-Arrow functions: es una manera mas compacta de crear o expresas funciones. Es necesario que sean asignadas como valor a una variable si es necesario reutilizarla o tambien se usa directamente en una expresion.
+Arrow functions: es una manera mas compacta de crear o expresar funciones. Es necesario que sean asignadas como valor a una variable si es necesario reutilizarla o tambien se usa directamente como una funcion anonima.
 
-Callback, nos permite recibir funciones como argumentos de una funcion, 
+Callback, nos permite recibir funciones como parametros de una funcion, tal como con datos .
+puedo combinar una funcion callback pasando una funcion arrow como parametro
+
+una funcion anonima la puedo llamar: function(){code} como no se pueden llamar por su nombre usualmente seran llamadas por funciones callback, tambien las puedo asignar a una variable de esta forma seria una funcion expresada.
 
 
 
