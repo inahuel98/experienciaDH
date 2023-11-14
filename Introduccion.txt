@@ -71,10 +71,37 @@ puedo combinar una funcion callback pasando una funcion arrow como parametro
 una funcion anonima la puedo llamar: function(){code} como no se pueden llamar por su nombre usualmente seran llamadas por funciones callback, tambien las puedo asignar a una variable de esta forma seria una funcion expresada.
 
 
-Array: tambien llamados como matriy unidimensional o vector, es una estructura que nos permite almacenar mas de un valor, incluso de diferentes tipos. Se pueden manipular debito a que tienen muchas funciones llamadas metodos.
+Array: tambien llamados como matriz unidimensional o vector, es una estructura que nos permite almacenar mas de un valor, incluso de diferentes tipos. Se pueden manipular debito a que tienen muchas funciones llamadas metodos.
 
+la longitud de un array siempre sera dada por la cantidad de elemento que contenga. para saber el numero podemos usar el methodo .length 
 
+para agregar un elemento (al final del array) usamos el methodo .push() en donde el parametro que le pasaremos sera el elemento a agregar.
 
+para sacar el ultimo elemento del array se debe usar el metodo .pop(), ese ultimo elemento sera retornado.
+
+para sacar el primer elemento del array se pueda usar el metodo .shift(), y al igual que el .pop()podra retornar el elemento.
+
+para agregar elementos al inicio del array podemos usar el methodo .unshift() y pasarle por paramentros los elementos que deseamos
+
+el methodo .indexOf() retorna el indice de donde se encuentre el valor pasado por parametro, si no se encuentra devolvera -1, tambien existe un method similar llamado .lastIndexOf() que realiza la misma busqueda pero desde atras hacia adelante.
+
+el method .join() permite unifiquicar todos los elementos de un array en un string separados por comas, y ademas se puede pasar por parametro cualquier elemento para usarlo como separador.
+
+otra manera de saber si un elemento se encuentra en un arraz es usando el method .includes() el cual le pasamos por parametro el elemento a buscar y en caso de encontrarlo devolver un booleano con el valor true, caso contrario devolvera un false.
+
+como un String es un objeto, en ella podemos tambien usar methods como con los array
+
+por ejemplo podemos usar .length para obtener la cantidad de caracteres que la componen.
+
+tambien puedo usar el metodo .indexOf() el cual me retornara el indice de donde esta el caracter buscado o desde donde empieza el string buscado
+
+.slice() nos permite tomar una parte del string, por parametro se pasa el indice desde y hasta donde tomar el string(opcinal el hasta)
+
+.trim() nos permite eliminar espacios en blanco al principio y final de la cadena de texto sin eliminar los espacios internos que la cadena tenga, recuerdo que retorna y no modifica la cadena original
+
+.split() es usado para pasar un string a un array , pasando por parametro el delimitador que se usara para saber en donde separar el string
+
+.replace() nos permite reemplazar partes de un string, para eso como primer parametro indico la porcion que sera reeemplaza, y en el segundo parametro indico que reemplazara 
 
 
 
