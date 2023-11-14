@@ -71,6 +71,8 @@ puedo combinar una funcion callback pasando una funcion arrow como parametro
 una funcion anonima la puedo llamar: function(){code} como no se pueden llamar por su nombre usualmente seran llamadas por funciones callback, tambien las puedo asignar a una variable de esta forma seria una funcion expresada.
 
 
+Array: tambien llamados como matriy unidimensional o vector, es una estructura que nos permite almacenar mas de un valor, incluso de diferentes tipos. Se pueden manipular debito a que tienen muchas funciones llamadas metodos.
+
 
 
 
