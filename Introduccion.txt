@@ -101,10 +101,53 @@ tambien puedo usar el metodo .indexOf() el cual me retornara el indice de donde 
 
 .split() es usado para pasar un string a un array , pasando por parametro el delimitador que se usara para saber en donde separar el string
 
-.replace() nos permite reemplazar partes de un string, para eso como primer parametro indico la porcion que sera reeemplaza, y en el segundo parametro indico que reemplazara 
+.replace() nos permite reemplazar partes de un string, para eso como primer parametro indico la porcion que sera reeemplaza, y en el segundo parametro indico que reemplazara.
 
+Ciclos:
+nos permiten repetir instrucciones de manera sencilla. podemos hacerlo una determinada cantidad de veces o  mientras se cumpla la condicion preestablecida.
+estructura basica del for:
+for(inicio; condicion; modificador){
+	codigo}
 
+estructura basica del while:
+while (condicion) {
+	codigo
+	modificador para que en algun momento la condicion sea false}
 
+las utilidades mas utiles de los ciclos es la de recorrer los aaray.
+
+Objetos Literales(similares a diccionarios de python)
+El par clave-valor se las llama propiedades.
+para acceder al valor de las propiedades se usar el Dot Notation.
+Para separar las propiedades se usan las comas.
+Los objetos tambien tienen metodos(almacenadas en las mismas propiedades).Para ejecutarlos tambien se usa el dot notation.
+dentro del objeto se puede usar el "this" para autoreferenciarse.
+
+Constructor de los objetos.
+Podes crear una funcion constructora el nombre de la misma debera empezar con letra mayuscula por convencion para distinguir de las funciones tradicionales, los parametros que reciba normalmente sera las propiedades del objeto que sera creado.
+Para asignarle a una variable antes de llamarla se debe anteponer la palabra "new"
+
+Estructura basica de un objeto literal:
+let auto = { patente: "AC 123 AD"};
+puede contener atributos con valor y tambien metodos.
+
+funciones constructoras: nos sirve como molde para luego crear los objetos que necesitemos.
+Para crear un objeto es necesario anteponer la palabra New antes de llamar a la funcion constructora
+
+Sistemas de modulos
+Modulos: son bloques de codigos genericos que tienen un objetivo definido.
+los modulos nativos de node estan en su pagina.
+la funcion require() toma un string (que es la ruta ./) , y retorna algo que debe almacernase en una variable.
+Tipos de modulos:
+-nativos que ya vienen instalados al crear un proyecto de Nodejs
+-de terceros que podemos instalarlos usando npm
+-propios que son aquellos que creamos y exportamos usando module.exports (siempre escrita al final del codigo)
+
+Libreria FIleSystem
+.readFileSync() nos permite leer un archivo, como parametros toma primero la ruta del archivo a leer y el segundo parametro sera la codificacion que usara para leer.
+Podemos anteponer el __dirname en caso de ejecutar el script desde un directorio diferente al del script.
+
+Para exportar modulos propios podemos usar la propiedad export de Module: module.exports = variable
 
 
 
