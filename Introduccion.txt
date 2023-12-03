@@ -150,4 +150,3 @@ Podemos anteponer el __dirname en caso de ejecutar el script desde un directorio
 Para exportar modulos propios podemos usar la propiedad export de Module: module.exports = variable
 
 
-
