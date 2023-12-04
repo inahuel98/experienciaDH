@@ -149,4 +149,35 @@ Podemos anteponer el __dirname en caso de ejecutar el script desde un directorio
 
 Para exportar modulos propios podemos usar la propiedad export de Module: module.exports = variable
 
+existen metodos en los cuales para usarlos se deben entender bien el uso de las funciones callback, los metodos que veremos para este caso sera .map(), .filter(), .forEach(), . reduce()
+.map() recorre el array y devuelve un nuevo parametro modificado segun el callback pasado.
+.filter() recorre el array y filtra los elementos del mismo segun la condicion que tenga en el callback pasado por parametro, el array que devuelve puede tener menos elementos que el original.
+.reduce() recorre el array y devuelve un "unico valor", recibe un callback que se ejecuta en cada elemento, a la vez recibe dos parametros un acumulador y el elemento actual del recorrido (en ese orden)
+-forEach() no retorna nada, su funcion es iterar sobre cada elemento del array y ejecutar la funcion callback en cada una de ellas, es similar al map() pero como criterio se usa para iterar y modificar el propio array, el map se usa para tranformas un array y retornar uno nuevo.
+
+JSON (JavaScriptObjectNotation)
+Es el formato de texto sencillo utilizado para el intercambio de datos entre diferentes maquinas.
+Por ejemplo en la web la mayoria de las peticiones y respuestas viajan en un formato sin codificaciones espeiales, JSON resulta la solucion para esto al ser una cadena de texto simple, entonces es un formato especial para transmitir informacion entre sitios y aplicaciones web
+Tiene ciertas similitudes con el Objeto literal pero estas son sus pequenas diferencias:
+-Solo se pueden usar comillas dobles
+-las claves van entre comillas
+-no admite metodos, solo propiedades y valores
+-no podemos poner una coma en el ultimo elemento
+
+JS nos proporciona objeto JSON con dos metodos que nos permite swapear de un json a un objeto o array y viceversa
+
+-JSON.parse() convierte un texto con formato JSON al tipo equivalente en JS. Convierte una cadena JSON en un objeto de JS.
+
+-JSON.stringify() convierte un tipo de dato de JS en un texto en formato JSON. Convierte un objeto de JS a una cadena JSON
+
+
+
+
+
+
+
+
+
+
+
 
