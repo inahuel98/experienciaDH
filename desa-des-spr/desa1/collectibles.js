@@ -1,6 +1,8 @@
 let fs = require("fs");
+let path = require("path");
 function importar(figuras){
-    let archivoJSON = fs.readFileSync("./datos/" + figuras, "utf-8");
+    let rutaDelArchivo = path.join(__dirname, "datos", figuras)
+    let archivoJSON = fs.readFileSync(rutaDelArchivo, "utf-8");
     return JSON.parse(archivoJSON);
 }
 
