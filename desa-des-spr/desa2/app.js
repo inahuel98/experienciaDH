@@ -26,8 +26,23 @@
  una de ellas pasando los referidos parámetros.*/
 
 let collectibles = require("../desa1/collectibles");
-console.log(collectibles);
 
-let hotToys = collectibles("figuras.json");
+let hotToys = collectibles("figuras1.json");
+let bandai = collectibles("figuras2.json");
+let starWars = collectibles("figuras3.json");
+let unifiedCollectibles = [...hotToys, ...bandai, ...starWars]
 
-console.log(hotToys);
+
+let collectiblesObs = {
+    figuras : unifiedCollectibles.map(figus => figus.nombre),
+    listFigures : function(){
+        unifiedCollectibles.forEach(listado => console.log("La figura " + listado.nombre + " cuesta $" + listado.precio + " en stock hay " + listado.stock));
+    },
+    figuresByBrand : function(marca){
+        return unifiedCollectibles.filter(listado => listado.marca == marca);
+    }
+}
+
+console.log(collectiblesObs.figuras);
+collectiblesObs.listFigures();
+console.log(collectiblesObs.figuresByBrand("Bandai"));
