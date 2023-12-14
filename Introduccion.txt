@@ -170,8 +170,11 @@ JS nos proporciona objeto JSON con dos metodos que nos permite swapear de un jso
 
 -JSON.stringify() convierte un tipo de dato de JS en un texto en formato JSON. Convierte un objeto de JS a una cadena JSON
 
+Destructuring: nos permite extraer datos de arrays y objetos literales de una manera mas sencilla de implementar
+Esto no modifica el array u objeto literal de origen, su unico objetico es copiar los valores a nuevas variables de una manera mas practica y rapida.
 
-
+Spread operatar (operador de propagacion)
+el rest parametro en caso de uso debe ser usado como ultimo parametro de la funcion, dentro de la funciona se usara como un array conteniendo todos los parametros adicionales que se le pasaron.
 
 
 
