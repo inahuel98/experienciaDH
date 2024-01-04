@@ -1,0 +1,55 @@
+Hablaremos de metodologias agiles principalmente sobre la metodologia Scrum, y daremos mas herramientas sobre el control de versiones de Git.
+La Metodologias agiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto. Permiten contar con flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias especificas del entorno.
+Objetivos del modulo:
+-Identificar las ventajas de un sistema de versionado.
+-Conocer los potenciales problemas y ventajas que surgen al utlizar un sistema de versionado.
+-Diagramar la secuencia de pasos que suceden al manejar un repositorio como Git.
+-Realizar los pasos basicos y comunes del uso de Git a traves de alguna herramienta, ya sea la terminal o un aplicativo.
+-Conocer las ventajas y desventajas de las metodologias de trabajo.
+-Implementar practicas de distintas metodologias de trabajo, puntualmente enfocando metodologias agiles y scrum.
+
+Algunos comando de Git
+git log nos muestra el historial de los commits
+
+
+Valores de las metodologias
+-personas e interacciones sobre procesos y herramientas
+-software funcional sobre documentacion compleja
+-colaboracion con el cliente sobre apego a contratos
+-responder ante el cambio sobre el seguimiento de un plan
+
+Scrum:
+product owner, representa la voz del cliente
+scrum master, facilitador del intercambio de informacion
+equipo de devs, entre 3 a 9 personas que cuenta con las capacidades tecnicas.
+
+Daily: se pregunta que hice ayer, tuve impedimentos para lograr mis objetivos, que voy a hacer hoy?
+
+Backlog: es el conjunto de todos los requisitos del proyecto, representa todo lo que sera construido
+backlogSprint: es el subconjunto que contienen los requisitos que seran desarrollados en el sprint actual
+sprint: es el periodo en el cual se esta llevando acabo el trabajo en si, tiene duraciones definidas por el equipo en general entre 2 a 4 semanas
+
+Tablero de tareas:
+story: historias de usuario que originaron las tareas
+to do: las tareas a realizar en el sprint
+in progress: las tareas en curso dentro del sprint
+to verify: tareas listas pero que requieren una verificacion
+done: tareas hechas y verificadas.
+
+
+WireFrames
+son planos de un sitio o aplicacion, nos dice la estructura y que es cada elemento, permite que todas las personas involucradas en un proyecto tengan una clara referencia de como se espera que termine el proyecto
+-Elementos del Wireframe
+colores, normalmente son transparentes, blancos , gamas de grises hasta el negro y algun color opcional de destaque
+bloques y separaciones, sirve para agrupar y separar elementos, pueden tener bordes de distintos tipos para diferenciarlos
+titulares, son textos destacados, normalmente llevan el texto real si se trata de elementos importantes
+parrafos y listas, son los textos normales, pueden tener textos de relleno
+imagenes, son representadas con un cuadro con una cruz atravesada, pueden ser redondas. tambien pueden tener elementos encima
+formularios, pueden ser combinaciones de otros elementos, campo de texto, desplegable, botones, enlace, radio, checkbox
+comentarios, se puede agregar comentarios para describir un elemento o explicar que deberia pasar al interactuar con dicho elemento.
+
+En el readme existe un modo de escribir llamado Markdown que describe una estructura a seguir .
+
+
+
+
