@@ -1,0 +1,64 @@
+Aprender HTML nos permitira tener un sitio bien estructurado para luego poder trabajar con la capa visua de CSS
+-Objetivos del modulo:
+Unir backend con la generacion de un frontend con HTML&CSS
+Organizar y estructurar el proyecto para trabajar especificamente con las visitas
+Descomponer los distintos componentes que hacen un pedido web
+Levantar un servidor, realizar pedidos por get
+Dar contenido y estructura al sitio con HTML
+Identificar componentes que hacen una pagina web, categorizarlos e identificar sus usos
+Integrar los distintos componentes
+Conocer y plasmar las distintas etiquetas y reglas de estilo
+Dar estilo y adaptacion a distintos tipos de pantalla
+Ejercitar sobre el diseno de webs responsive
+
+Estamos parados en la ARQUITECTURA CLIENTE-SERVIDOR, donde veremos el protocolo HTTP(una herramienta fundamental para la web). EXPRESS funciona muy bien para ayudarnos a adentrarnos, levantaremos un servidor con EXPRESS, armaremos rutas y utilizaremos SEND&RENDER. finalmente veremos como enviar archivos al navegador con SEND FILE
+Pedido y respuesta (request & response)
+
+URI(identificador de recursos uniformes), es un bloque de texto que se escribe en la barra de direcciones de un navegador web y esta compuesto por dos partes: la URL y la URN
+
+Viaje de la informacion, viaja a traves de los headers que son porciones de texto conteniendo la informacion requerida por el cliente o el servidor.
+Ademas de headers, se tiene el body del mensaje, que es donde estara la informacion en si del pedido o su respuesta.
+
+Metodos de Peticion:
+GET: se utiliza para pedirle informacion al servidor de un recurso especifico, la informacion viajara a traves de la URL.
+POST: se utiliza para enviar datos al servidor, Es un metodo mas seguro que GET ya que la informacion no viaja a traves de la URL.
+DELETE: borra un recurso presente en el servidor.
+PUT: similar al post. se usa para reemplazar toda la informacion actual de un recurso en el servidor.
+PATCH: similar al PUT pero las modificaciones hechas a un recurso del servidor sera parcial.
+
+Codigos de estado HTTP:
+Cada vez que el servidor recibe un request, este emite un codigo de estado que indica de manera abreviada el estado de la respuestas HTTP. El codigo cuenta con 3 digitos, el primer digito representa lo siguiente:
+1__ respuestas informativas,
+2__ respuestas exitosas,
+3__ redirecciones,
+4__ errores del cliente,
+5__ errores del servidor
+
+EXPRESS nos permitira crear un servidor de prueba y hacer que nuestro proyecto pueda ser escalable en el mismo, es un framework muy utilizado en los ambientes de node.js
+
+la instalacion se hace adentro de un proyecto con: npm install express --save , previamente se debe iniciar el json con un npm init -y (el -y permite un json rapido por defecto)
+el --save permite que se agregue automaticamente con dependencia express en el package.json, actualmente en las versiones nuevas de express ya no es necesario
+
+Servidor Web: sistema que procesa solicitudes (requests) y devuelve respuestas(responses) a traves del protocolo HTTP.
+
+Levantar el servidor web:
+se usa app.listen(PORT, function_callback_opcional) 
+
+luego de levantar el servidor es necesario levantar las rutas para maneras las respuestas de nuestra aplicacion
+usamos app.get("/ruta", (req,res) => {...};)
+
+el metodo .sendFile() dentro de res, nos permite enviar archivos al cliente desde nuestro servidor especificando la ruta absoluta (para esto usamos el modulo path de la siguiente manera)
+const path = require("path");
+app.get("/", (req, res) => {
+	res.sendFile(path.resolve(__dirname, "./ruta")});
+
+para indicar donde se encuentran los archivos publicos para ser usados usamos el: app.use(express.static("public"))
+
+
+
+
+
+
+
+
+
